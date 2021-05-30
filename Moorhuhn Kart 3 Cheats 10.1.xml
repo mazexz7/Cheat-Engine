@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- mazexz -->
+<CheatTable CheatEngineTableVersion="29">
+  <Forms>
+    <UDF1 Class="TCEForm" Encoding="Ascii85">b7o++2nldAU:MM2b.}cxWeIh0Gi32eO*FvE$H=Z9nwg$a!u*{OIV8V.]2,*NcxFmT2D1YryK]beNoIZ=8)2L90^^</UDF1>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Moorhuhn Kart 3 Cheats --Created by mazexz"</Description>
+      <Options moHideChildren="1" moActivateChildrenAsWell="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <Color>A93F94</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"Game Mode"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00ACE300</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"Names"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <Color>E6A4FB</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Name Host"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>800080</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACE474</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Name NPC1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>000080</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACE5D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"Name NPC2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>800000</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACE73C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Name NPC3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>313131</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACE8A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"Name NPC4"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>005151</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACEA04</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"Name NPC5"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>008000</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACEB68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>5</ID>
+              <Description>"Name P1"</Description>
+              <Color>0080FF</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACECEC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"Name P2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>B5B56A</Color>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>00ACED0B</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"KrÃ¶t"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FF0080</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Kröt"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FF0080</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"Level"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00ACE36C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Laps"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00ACE3A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"Karts"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>66</ID>
+              <Description>"cm^3 power"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE338</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"No Kart Color"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00541656</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"No Kart Detail"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00541646</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>40</ID>
+              <Description>"Kart 1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE470</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Kart 2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE5D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Kart 3"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE738</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"Kart 4"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE89C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>48</ID>
+              <Description>"Kart 5"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEA00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>50</ID>
+              <Description>"Kart 6"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEB64</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Characters"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <Color>0E4772</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"Character 6"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEB60</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Character 5"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE9FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"Character 4"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE898</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>45</ID>
+              <Description>"Character 3"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE734</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"Character 2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE5D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>39</ID>
+              <Description>"Character 1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE46C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"Places"</Description>
+          <Options moHideChildren="1" moActivateChildrenAsWell="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>54</ID>
+              <Description>"Start 1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE498</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>53</ID>
+              <Description>"Start 2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>ACE5FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"Start 3"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE760</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"Start 4"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE8C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"Start 5"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEA28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>59</ID>
+              <Description>"Start 6"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEB8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE49C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE600</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>62</ID>
+              <Description>"3"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE764</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>63</ID>
+              <Description>"4"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE8C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"5"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEA2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"6"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEB90</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"Controls"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>72</ID>
+              <Description>"Control P6"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"Control P5"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"Control P4"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"Control P3"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"Control P2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"Control P1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEC0c</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Points"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"P1 Points"</Description>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE4AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"P2 Points"</Description>
+              <Color>FF0000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE610</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"P3 Points"</Description>
+              <Color>808080</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE774</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"P4 Points"</Description>
+              <Color>00C1C1</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACE8D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"P5 Points"</Description>
+              <Color>00FF00</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEA3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"P6 Points"</Description>
+              <Color>AE00AE</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00ACEBA0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"FOV"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>00ACE23C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"Unknown Integer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7C366BE9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0050C2BD</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of call Moorhuhn_Kart3.exe+111DCE</Description>
+      <AddressString>Moorhuhn_Kart3.exe+10C2BD</AddressString>
+      <Before>
+        <Byte>C7</Byte>
+        <Byte>5F</Byte>
+        <Byte>5E</Byte>
+        <Byte>C9</Byte>
+        <Byte>C3</Byte>
+      </Before>
+      <Actual>
+        <Byte>E8</Byte>
+        <Byte>0C</Byte>
+        <Byte>5B</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>48</Byte>
+        <Byte>14</Byte>
+        <Byte>69</Byte>
+        <Byte>C9</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <LuaScript>--[[
+Moorhuhn Kart 3 - Lua Cheats
+by mazexz
+]]
+  print("Thanks for using Moorhuhn Kart 3 Lua Cheats")
+  print("Script made by mazexz")
+  print("version 0.4")
+---[NAME VALUES]---
+NamePC = "Human   "
+NameNPC = "CPU     "
+NameBoss = "Boss    "
+---[PC]---
+NamePC1 = "Player1 "
+NamePC2 = "Player2 "
+NamePC3 = "Player3 "
+NamePC4 = "Player4 "
+NamePC5 = "Player5 "
+NamePC6 = "Player6 "
+---[NPC]---
+NameNPC1 = "CPU1    "
+NameNPC2 = "CPU2    "
+NameNPC3 = "CPU3    "
+NameNPC4 = "CPU4    "
+NameNPC5 = "CPU5    "
+NameNPC6 = "CPU6    "
+---[Player Controlled]---
+NamePC0Address = 0xACECEC
+NamePC1Address = 0xACED0B
+NamePC2Address = 0xACE474
+---[Non-Player Controlled]---
+NameNPC1Address = 0xACE5D8
+NameNPC2Address = 0xACE73C
+NameNPC3Address = 0xACE8A0
+NameNPC4Address = 0xACEA04
+NameNPC5Address = 0xACEB68
+---[Reading]---
+---[PC]---
+ PC0Value = readString(NamePC0Address)
+ PC1Value = readString(NamePC1Address)
+ PC2Value = readString(NamePC2Address)
+print("Finished Reading Player Control")
+ ---[NPC]---
+ NPC1Value = readString(NameNPC0Address)
+ NPC2Value = readString(NameNPC1Address)
+ NPC3Value = readString(NameNPC2Address)
+ NPC4Value = readString(NameNPC3Address)
+ NPC5Value = readString(NameNPC4Address)
+print("Finished Reading Non-Player Control")
+---[Over Writting Values]---
+---[PC]---
+writeString(NamePC0Address, NamePC1)
+  PC0Value = readString(NamePC0Address)
+writeString(NamePC1Address, NamePC2)
+  PC1Value = readString(NamePC1Address)
+writeString(NamePC2Address, NamePC2)
+  PC2Value = readString(NamePC2Address)
+---[NPC]---
+writeString(NameNPC1Address, NameNPC1)
+  NPC1Value = readString(NameNPC1Address)
+writeString(NameNPC2Address, NameNPC2)
+  NPC2Value = readString(NameNPC2Address)
+writeString(NameNPC3Address, NameNPC3)
+  NPC3Value = readString(NameNPC3Address)
+writeString(NameNPC4Address, NameNPC4)
+  NPC4Value = readString(NameNPC4Address)
+writeString(NameNPC5Address, NameNPC5)
+  NPC5Value = readString(NameNPC5Address)
+print("Finished over-writing the strings")
+---[SILLY LOCAL SCRIPTS]---
+local Boss = "NameNPC"..math.random(1,5).."Address"
+local bossV = "NPC"..math.random(1,5).."Value"
+local bossN = "NameNPC"..math.random(1,5)
+
+bossV = readString(Boss)
+writeString(Boss, bossN)
+print("Random Boss generated")
+</LuaScript>
+</CheatTable>
