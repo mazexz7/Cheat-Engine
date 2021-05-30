@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- mazexz -->
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Multiplayer"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>800080</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Vehicle"</Description>
+          <LastState Value="1" Activated="1" RealAddress="0149E05C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0149E05C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Skin"</Description>
+          <LastState Value="0" Activated="1" RealAddress="0149E060"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"RC Cars.EXE"+109E060</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"Tires"</Description>
+          <LastState Value="1" Activated="1" RealAddress="0149E064"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0149E064</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Resonator"</Description>
+          <LastState Value="1" Activated="1" RealAddress="0149E06C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0149E06C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Boost"</Description>
+          <LastState Value="1" Activated="1" RealAddress="0149E068"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0149E068</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Color (0 - 9)"</Description>
+          <LastState Value="0" Activated="1" RealAddress="0149E058"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0149E058</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
